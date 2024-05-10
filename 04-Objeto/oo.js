@@ -17,4 +17,3 @@ objeto.processamento(); // Foco passou a ser o objeto
 // 1. Abstracao
 // 2. Encapsulamento
 // 3. Herança (prototype)
-// 4.
